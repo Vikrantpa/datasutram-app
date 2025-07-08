@@ -1,5 +1,5 @@
 import streamlit as st
 
-st.title('🎈 App Name')
+st.title('Welcome to DataSutram🎈')
 
-st.write('Hello world!')
+st.write('Hello Guy's!')
